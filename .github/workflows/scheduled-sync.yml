@@ -22,7 +22,7 @@ permissions:
   contents: read
 
 env:
-  DEFAULT_SYMBOLS: "USD IDX"
+  DEFAULT_SYMBOLS: "DOLLARIDXUSD"
   HF_DATASET: Esmaeil9ss/Tickdata
 
 jobs:
